@@ -1,0 +1,4 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","12311","Verify application title using loop","firefox","Mon Dec 30 16:48:05 IST 2024","passed","Mon Dec 30 16:48:17 IST 2024","","demo\HandleAutoSuggestions.spec.js","",""
+"","8555","Verify application title using loop","chromium","Mon Dec 30 16:47:54 IST 2024","passed","Mon Dec 30 16:48:02 IST 2024","","demo\HandleAutoSuggestions.spec.js","",""
+"","16853","Verify application title using loop","webkit","Mon Dec 30 16:48:21 IST 2024","passed","Mon Dec 30 16:48:38 IST 2024","","demo\HandleAutoSuggestions.spec.js","",""
