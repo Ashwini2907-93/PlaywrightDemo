@@ -3,7 +3,7 @@ const { login } = require('../../helpers/auth');
 
 test.describe('Leave Tracker Tests', () => {
     test.beforeEach(async ({ page }) => {
-        await login(page, "ashwini.langote@sstglobal.net", "Swati@123");
+        
     });
 
     test('Apply Leave Functionality Test', async ({ page }) => {
