@@ -3,7 +3,7 @@ const { login } = require('../../helpers/auth');
 
 test.describe('Login Tests', () => {
     test('Valid Login Test', async ({ page }) => {
-        await login(page, "ashwini.langote@sstglobal.net", "Swati@123");
+   
         await page.waitForTimeout(3000)
         await expect(page).toHaveURL(/dashboard/);
         console.log("Successfully logged in and navigated to the dashboard.");
