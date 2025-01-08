@@ -7,7 +7,7 @@ test.describe('My Documents Tests', () => {
 
     test.beforeEach(async ({ page }) => {
         console.log("Logging in before My Documents test...");
-        await login(page, "ashwini.langote@sstglobal.net", "Swati@123");
+       
     });
 
     test.skip('Upload Document with Assertions', async ({ page }) => {
